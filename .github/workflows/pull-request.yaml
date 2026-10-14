@@ -13,4 +13,4 @@ jobs:
         run: echo "Running tests..."
 
       - name: test completed
-        echo "Tests completed successfully!"
+        run: echo "Tests completed successfully!"
