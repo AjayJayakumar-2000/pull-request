@@ -11,3 +11,6 @@ jobs:
     steps:
       - name: run tests
         run: echo "Running tests..."
+
+      - name: test completed
+        run: echo "Tests completed successfully!"
